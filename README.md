@@ -1,4 +1,3 @@
 # crudapi
 
-[![Build Status](https://travis-ci.org/<your Github username>/<your repository name>.svg?branch=master)](https://travis-ci.org/<your 
-Github username>/<your repository name>)
+[![Build Status](https://travis-ci.org/farmeroscar/crudapi.svg?branch=master)](https://travis-ci.org/farmeroscar/crudapi)
